@@ -3,3 +3,7 @@
 
 ![Alt text](app/static/assets/index.png?raw=true "Index")
  <br>
+## 💻Technologies used  ##
+
+<p align="center">
+<img alt="Index Page" src="app/static/assets/tecnologiesfull.png">
