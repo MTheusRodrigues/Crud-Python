@@ -7,7 +7,12 @@
 
 <p align="center">
 <img alt="Index Page" src="app/static/assets/tecnologiesfull.png">
+ 
 ## 💻Full Table  ##
 
 <p align="center">
 <img alt="Index Page" src="app/static/assets/pageRegisterFull.png">
+## 💻Code  ##
+
+<p align="center">
+<img alt="Index Page" src="app/static/assets/code.png">
